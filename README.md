@@ -11,3 +11,7 @@ Spartos lyginimas su V1.0 versija:
 | 100000 failo dalijimas     | 0.00369126 | 0.00305780 |
 | 1000000 failo nuskaitymas  | 3.10655110 | 2.84936010 |
 | 1000000 failo dalijimas    | 0.03361647 | 0.03214870 |
+
+V1.2
+
+Viskas tas pats kaip ir V1.1, tik V1.2 čia realizuota "rule of three", t.y. destructor, copy constructor ir copy assignment operator.
