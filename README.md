@@ -15,3 +15,7 @@ Spartos lyginimas su V1.0 versija:
 V1.2
 
 Viskas tas pats kaip ir V1.1, tik V1.2 čia realizuota "rule of three", t.y. destructor, copy constructor ir copy assignment operator.
+
+V1.5
+
+Vietoje turimos Studentas klasės sukūriau dvi: bazinę klasę Žmogus ir iš još išvestą klasę Studentas. Bazinė klasė yra abstrakti.
